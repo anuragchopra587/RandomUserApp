@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UserRandomTests</id>
+    <version>1.0.0</version>
+    <authors>UserRandomTests</authors>
+    <owners>UserRandomTests</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="RandomUserDataAccess" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RanomUserServiceModel" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RandomUserAPI" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NET.Test.Sdk" version="17.6.3" exclude="Build,Analyzers" />
+        <dependency id="Moq" version="4.16.1" exclude="Build,Analyzers" />
+        <dependency id="NUnit" version="3.13.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Debug\netcoreapp2.1\UserRandomTests.dll" target="lib\netcoreapp2.1\UserRandomTests.dll" />
+  </files>
+</package>

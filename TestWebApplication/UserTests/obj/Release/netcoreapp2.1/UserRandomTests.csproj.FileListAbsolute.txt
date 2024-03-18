@@ -1,0 +1,16 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\UserRandomTests.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\UserRandomTests.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\UserRandomTests.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RandomUserAPI.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RandomUserDataAccess.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RanomUserServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RandomUserDataAccess.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RanomUserServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Release\netcoreapp2.1\RandomUserAPI.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.csprojAssemblyReference.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.csproj.CopyComplete
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Release\netcoreapp2.1\UserRandomTests.pdb

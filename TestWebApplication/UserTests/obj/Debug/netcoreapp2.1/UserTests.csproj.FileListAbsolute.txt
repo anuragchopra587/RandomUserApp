@@ -1,0 +1,6 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Debug\netcoreapp2.1\UserTests.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Debug\netcoreapp2.1\UserTests.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Debug\netcoreapp2.1\UserTests.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Debug\netcoreapp2.1\UserTests.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\bin\Debug\netcoreapp2.1\UserTests.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\UserTests\obj\Debug\netcoreapp2.1\UserTests.csprojAssemblyReference.cache

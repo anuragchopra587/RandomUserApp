@@ -1,0 +1,8 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Release\netcoreapp2.1\RanomUserServiceModel.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Release\netcoreapp2.1\RanomUserServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Release\netcoreapp2.1\RanomUserServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Release\netcoreapp2.1\RanomUserServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Release\netcoreapp2.1\RanomUserServiceModel.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Release\netcoreapp2.1\RanomUserServiceModel.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Release\netcoreapp2.1\RanomUserServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Release\netcoreapp2.1\RanomUserServiceModel.pdb

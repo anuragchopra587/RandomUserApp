@@ -1,0 +1,12 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Debug\netcoreapp2.1\TestDataAccess.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Debug\netcoreapp2.1\TestDataAccess.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Debug\netcoreapp2.1\TestDataAccess.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Debug\netcoreapp2.1\TestServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Debug\netcoreapp2.1\TestServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.csprojAssemblyReference.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.csproj.CopyComplete
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Debug\netcoreapp2.1\TestDataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Debug\netcoreapp2.1\TestServiceModel.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Debug\netcoreapp2.1\TestServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\bin\Debug\netcoreapp2.1\TestServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDomainModel\obj\Debug\netcoreapp2.1\TestServiceModel.csprojAssemblyReference.cache

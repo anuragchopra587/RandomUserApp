@@ -1,0 +1,12 @@
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Release\netcoreapp2.1\RandomUserDataAccess.deps.json
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Release\netcoreapp2.1\RandomUserDataAccess.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Release\netcoreapp2.1\RandomUserDataAccess.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Release\netcoreapp2.1\RanomUserServiceModel.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\bin\Release\netcoreapp2.1\RanomUserServiceModel.pdb
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.csprojAssemblyReference.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.AssemblyInfoInputs.cache
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.AssemblyInfo.cs
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.csproj.CopyComplete
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.dll
+C:\Users\anurag.chopra.BOLDINDIA\Desktop\API\TestWebApplication\TestDataAccess\obj\Release\netcoreapp2.1\RandomUserDataAccess.pdb
